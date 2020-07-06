@@ -9,7 +9,7 @@
 - 💬 Ask me about Nepal, Minneapolis or SHA256!!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can speak a bit of Hungarian! I learnt that to communicate with locals as I studied abroad for a semester in Budapest.
-
+- ☕ Wanna chat? 👉 @ me on [Twitter](https://twitter.com/kalopatthar)
 
 <!--
 **kalapathar/kalapathar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
