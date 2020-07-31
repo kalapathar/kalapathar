@@ -2,7 +2,7 @@
 
 - 🔭 **2020 Goal**<br>
     - I want to contribute to non-profits. <br>
-        - I recently started working on a platform to [connect donors with charities](https://github.com/craigs-donors/craigs-donors). I am learning React, Amplify and many new things. <br>
+        - I recently started working on a platform to [connect donors with charities](https://devpost.com/software/craigs-help). I am learning React, Amplify and many new things. <br>
         - I am also one of the listener at 7Cups. What that means is that I am there to listen and chat with people who might be struggling emotionally and mentally. I would like to become more compassionate.
 
 - 🌱 I’m currently learning Kubernetes. I work for Sports Engine in Minneapolis.
