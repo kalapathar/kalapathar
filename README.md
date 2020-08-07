@@ -11,7 +11,10 @@
 - ⚡ Fun fact: I can speak a bit of Hungarian! I learnt that to communicate with locals as I studied abroad for a semester in Budapest.
 - ☕ Wanna chat? 👉 @ me on [Twitter](https://twitter.com/kalopatthar)
 <br>
+
 [![kalapathar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalapathar&show_icons=true)](https://github.com/kalapathar)
+
+
 <!--
 **kalapathar/kalapathar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
